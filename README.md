@@ -24,4 +24,5 @@ Live site : https://joshm119.github.io/week-1-checkpoint/
 | 8   | added list of things I like           | added list of things I like           | main   |
 | 9   | added my goals                        | added goals section                   | main   |
 | 10  | added link to site I like and a image | added link to site I like and a image | main   |
-| 11  |                                       |                                       | main   |
+| 11  | added live link to readme | added live link to readme | main   |
+

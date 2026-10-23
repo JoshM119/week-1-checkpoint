@@ -19,4 +19,5 @@
 | 7 | added about me | added about me section| main |
 | 8 | added list of things I like | added list of things I like| main |
 | 9 | added my goals | added goals section| main |
+| 10 | added link to site I like and a image | added link to site I like and a image| main |
 

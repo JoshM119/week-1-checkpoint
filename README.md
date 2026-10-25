@@ -4,8 +4,8 @@ Live site : https://joshm119.github.io/week-1-checkpoint/
 
 ## My setup
 
-- Operating system:
-- Editor:
+- Operating system: windows
+- Editor: VS code
 - Git version: git version 2.56.0.windows.2
 - Git name: Josh Merrill
 - Git email: joshmerrill2001@gmail.com
@@ -28,3 +28,4 @@ Live site : https://joshm119.github.io/week-1-checkpoint/
 | 12  | renamed index                         | renamed Index.html to index.html      | main   |
 | 13  | renamed images folder                 | renamed images                        | main   |
 | 14  | fixed my img tag                      | images                                | main   |
+| 15  | add to editor and os to my setup in READme| updated readme | main   |
